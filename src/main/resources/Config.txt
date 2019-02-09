@@ -1,0 +1,3 @@
+host = localhost
+username = GAURAV
+password = Singh
